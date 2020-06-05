@@ -1,4 +1,4 @@
-# Arkademy B16 - Tugas 1
+# Arkademy B16.3 - Tugas 1
 ## Palindrom
 [Source code : Palindrom](https://github.com/dimasdompit/)
 #### Algoritma :
