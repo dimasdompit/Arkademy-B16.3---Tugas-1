@@ -36,4 +36,4 @@ console.log(palindrom('kotak')); // FALSE
 ```
 
 
-## Screen Shot Flowchart dan Output Tugas 1
+## Screen Shot Output Tugas 1
