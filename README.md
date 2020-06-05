@@ -37,3 +37,4 @@ console.log(palindrom('kotak')); // FALSE
 
 
 ## Screen Shot Output Tugas 1
+![alt text](https://github.com/dimasdompit/Arkademy-B16.3---Tugas-1/blob/master/ss%20palindrom.png)
