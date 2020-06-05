@@ -1,6 +1,6 @@
 # Arkademy B16.3 - Tugas 1
 ## Palindrom
-[Source code : Palindrom](https://github.com/dimasdompit/)
+[Source code : Palindrom](https://github.com/dimasdompit/Arkademy-B16.3---Tugas-1/blob/master/palindrom.js)
 #### Algoritma :
 * Mulai
 * Deklarasi variabel *strRev*
